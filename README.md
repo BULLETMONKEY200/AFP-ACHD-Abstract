@@ -26,7 +26,3 @@ Complex ACHD is associated with worse patient mortality in CEID patients. Surgic
 
 ![image](https://user-images.githubusercontent.com/34778053/171502909-1da7ab30-fdac-4da8-8b63-6be662402062.png)
 
-
-Supplementary figures:
-
-![image](https://user-images.githubusercontent.com/34778053/171502980-7268bf87-38ee-490c-80ae-ef59dbca5fda.png)
